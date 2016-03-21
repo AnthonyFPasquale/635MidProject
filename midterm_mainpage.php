@@ -1,6 +1,5 @@
 #!/usr/bin/php
 <?php
-require_once("midterm_classdb.php.inc");
 require_once("midterm_logindb.php.inc");
 require_once("midterm_gamesdb.php.inc");
 function print_help()
